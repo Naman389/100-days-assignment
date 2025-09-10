@@ -27,10 +27,11 @@ int main()
             sum = sum + i;  
         }
     }
-    if(num==i){
+    if(num==sum){
         printf("Number is perfect.");
     }else{
         printf("Number is not perfect.");
     }
     return 0;
+
 }
