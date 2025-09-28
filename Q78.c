@@ -24,7 +24,7 @@ int main() {
     for (i = 0; i < n; i++) {
         for (j = 0; j < n; j++) {
             scanf("%d", &arr[i][j]);
-            if (i == j) {   // main diagonal condition
+            if (i == j) {  
                 sum += arr[i][j];
             }
         }
@@ -33,4 +33,5 @@ int main() {
     printf("Sum of main diagonal elements = %d\n", sum);
 
     return 0;
+
 }
