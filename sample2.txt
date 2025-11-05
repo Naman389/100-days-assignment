@@ -1,0 +1,6 @@
+ Hello world
+ This is C programminghow are you?
+
+how are you?
+fine
+my name is naman.
