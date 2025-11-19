@@ -47,6 +47,6 @@ int main() {
         printf("%d ", max);
     }
 
-    printf("\n");
     return 0;
 }
+
