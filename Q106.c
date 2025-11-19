@@ -52,13 +52,13 @@ int main() {
         nextGreater[i] = next;
     }
 
-    printf("Next Greater Elements: ");
+    
     for(int i = 0; i < n; i++) {
         printf("%d", nextGreater[i]);
-        if(i != n - 1)
-            printf(", ");
+
     }
 
-    printf("\n");
+ 
     return 0;
 }
+
