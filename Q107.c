@@ -52,9 +52,9 @@ int main() {
         }
 
         printf("%d", prevGreater);
-        if (i != n - 1)
-            printf(", ");
+        
     }
 
     return 0;
 }
+
